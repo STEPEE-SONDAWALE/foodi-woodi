@@ -1,0 +1,2 @@
+git clone (copy & paste) enter
+(open terminal) code . enter
